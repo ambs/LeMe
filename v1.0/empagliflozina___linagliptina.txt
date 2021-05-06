@@ -1,0 +1,556 @@
+: Informação para o doente
+
+                    Glyxambi 10 mg/5 mg comprimidos revestidos por película
+                    Glyxambi 25 mg/5 mg comprimidos revestidos por película
+                                  empagliflozina/linagliptina
+
+   Este medicamento está sujeito a monitorização adicional. Isto irá permitir a rápida identificação de
+nova informação de segurança. Poderá ajudar, comunicando quaisquer efeitos indesejáveis que tenha.
+
+Para saber como comunicar efeitos indesejáveis, veja o final da secção 4.
+
+Leia com atenção todo este folheto antes de começar a tomar este medicamento, pois contém
+informação importante para si.
+
+<item>     Conserve este folheto. Pode ter necessidade de o ler novamente.
+
+<item>     Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+
+<item>     Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+      ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+
+<item>     Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+      neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+
+O que contém este folheto:
+
+<title>1. O que é Glyxambi e para que é utilizado</title>
+
+<title>2. O que precisa de saber antes de tomar Glyxambi</title>
+
+<title>3. Como tomar Glyxambi</title>
+
+<title>4. Efeitos indesejáveis possíveis</title>
+
+<title>5. Como conservar Glyxambi</title>
+
+<title>6. Conteúdo da embalagem e outras informações</title>
+
+<title>1. O que é Glyxambi e para que é utilizado</title>
+
+Glyxambi é um medicamento antidiabético que contém duas substâncias ativas denominadas
+empagliflozina e linagliptina:
+    a empagliflozina bloqueia uma proteína nos rins chamada cotransportador sódio-glicose 2
+     (SGLT2). A SGLT2 impede que a glicose seja excretada na urina através da absorção da glicose
+     de volta para a corrente sanguínea à medida que o sangue é filtrado nos rins. Ao bloquear esta
+     proteína, o medicamento faz com que a glicose (o açúcar no sangue), o sódio (sal) e a água
+     sejam eliminados através da urina. Isto ajuda a diminuir os níveis de glicose no sangue, que se
+     encontram muito elevados devido à sua diabetes tipo 2.
+    A linagliptina funciona de maneira diferente, nomeadamente ao permitir ao pâncreas produzir
+     mais insulina para diminuir os níveis de glicose no sangue. Ela fá-lo ao bloquear uma proteína
+     chamada DPP-4.
+
+Glyxambi é adicionado à metformina e/ou sulfonilureia (SU) para tratar a diabetes tipo 2 em doentes
+adultos cuja diabetes não consiga ser controlada por metformina e/ou sulfonilureia em associação com
+empagliflozina, ou quando tratados com metformina e/ou sulfonilureia em associação com
+linagliptina.
+
+Além disso, Glyxambi pode ser utilizado como alternativa à toma de comprimidos de empagliflozina e
+linagliptina isoladamente. No caso de tomar este medicamento, não continue a tomar nenhum desses
+comprimidos em separado.
+
+É importante que continue a seguir o seu plano de dieta e exercício como lhe recomendou o seu
+médico, farmacêutico ou enfermeiro.
+
+O que é a diabetes tipo 2?
+A diabetes tipo 2 é uma doença que está relacionada tanto com os genes como com o estilo de vida. Se
+tem diabetes tipo 2, o seu pâncreas pode não fabricar insulina suficiente para controlar o nível de
+glicose no sangue e o corpo não consegue utilizar a sua própria insulina de forma eficaz. Tal resulta
+em níveis elevados de açúcar no sangue, que podem levar a problemas de saúde, tais como doenças do
+coração ou dos rins, cegueira e problemas de circulação nos braços e pernas.
+
+<title>2. O que precisa de saber antes de tomar Glyxambi</title>
+
+Não tome Glyxambi
+
+<item>     se tem alergia à empagliflozina, à linagliptina, qualquer outro inibidor do SGLT2 (p. ex.,
+      dapagliflozina, canagliflozina), qualquer outro inibidor da DPP-4 (p. ex., sitagliptina,
+      vildagliptina), ou a qualquer outro componente deste medicamento (indicados na secção 6).
+
+Advertências e precauções
+
+Fale com o seu médico antes de tomar este medicamento e durante o tratamento:
+     acerca do que pode fazer para prevenir a desidratação
+     se tiver diabetes tipo 1 (quando o seu corpo não produz insulina). Glyxambi não deve ser
+      utilizado para tratar a diabetes tipo 1.
+     se tiver uma perda rápida de peso, sensação de mal-estar geral ou sentir-se doente, dores de
+      estômago, sede excessiva, respiração rápida e profunda, confusão, sonolência ou cansaço
+      invulgares, hálito adocicado, sabor doce ou metálico na boca, ou um cheiro diferente na urina ou
+      no suor, contacte imediatamente um médico ou o hospital mais próximo, pois estes sintomas
+      podem ser um sinal de “cetoacidose diabética”- um problema raro, mas grave, por vezes
+      potencialmente fatal, que se pode ter com a diabetes devido a níveis elevados de “corpos
+      cetónicos” na urina ou no sangue, detetados nos exames de laboratório. O risco de desenvolver
+      cetoacidose diabética pode aumentar com o jejum prolongado, o consumo excessivo de álcool, a
+      desidratação ou reduções súbitas da dose de insulina ou com o aumento da necessidade de
+      insulina devido a uma grande cirurgia ou uma doença grave.
+     se está a tomar outros medicamentos antidiabéticos chamados “sulfonilureias” (p. ex.,
+      glimepirida, glipizida) e/ou insulina. O médico poderá necessitar diminuir a sua dose destes
+      medicamentos quando os tomar juntamente com Glyxambi para evitar que os níveis de açúcar
+      no sangue baixem demasiado (hipoglicemia).
+     se sofrer ou tiver sofrido de uma doença do pâncreas.
+     se tiver problemas graves nos rins. O seu médico poderá pedir-lhe que tome um medicamento
+      diferente.
+     se tiver idade igual ou superior a 75 anos, uma vez que o aumento da quantidade de urina
+      causado pelo medicamento poderá afetar o equilíbrio de líquidos no organismo e aumentar o
+      risco de desidratação. Para saber quais os possíveis sinais de desidratação, consulte a secção 4.
+     se tiver idade igual ou superior a 75 anos, uma vez que não se recomenda começar a tomar este
+      medicamento com mais de 75 anos de idade.
+
+Contacte o seu médico se tiver qualquer dos seguintes problemas durante o tratamento com Glyxambi:
+    se tiver sintomas de pancreatite aguda, como dor de barriga (dor abdominal) intensa e
+     persistente. Os possíveis sinais desta situação encontram-se na secção 4, “Efeitos indesejáveis
+     possíveis”. O médico pode necessitar de alterar o seu tratamento.
+    se se sentir enjoado, tiver diarreia ou febre ou não conseguir comer ou beber. Estas situações
+     podem causar desidratação. O médico poderá pedir-lhe que pare de tomar Glyxambi até que
+     esteja recuperado, para evitar a perda excessiva de líquidos do corpo.
+    se tiver uma infeção grave do rim ou das vias urinárias acompanhada de febre. O médico poderá
+     pedir-lhe que pare de tomar Glyxambi até que esteja recuperado.
+    a formação de bolhas na pele pode ser um sinal de uma doença chamada penfigoide bolhoso.
+     Caso surjam estas bolhas, o médico pode indicar-lhe que pare de tomar Glyxambi.
+
+Fale com o seu médico imediatamente se apresentar uma combinação de sintomas de dor,
+sensibilidade, vermelhidão ou inchaço nos órgãos genitais ou na área entre os órgãos genitais e o ânus
+com febre ou sensação de mal-estar geral. Estes sintomas podem ser um sinal de uma infeção rara mas
+grave ou até potencialmente fatal, denominada fasciite necrotizante do períneo ou gangrena de
+Fournier, que destrói o tecido abaixo da pele. A gangrena de Fournier tem que ser imediatamente
+tratada.
+
+Cuidados com os pés
+
+Tal como é recomendado para todos os doentes diabéticos, é importante examinar os seus pés com
+regularidade e cumprir quaisquer outros conselhos prestados pelo seu profissional de saúde
+relativamente aos cuidados a ter com os pés.
+
+Função renal
+
+O médico irá examinar o bom funcionamento dos seus rins antes de iniciar o tratamento com
+Glyxambi e, regularmente, durante o tratamento.
+
+Glicose na urina
+
+Devido à forma como este medicamento atua, a sua urina dará um resultado positivo para a presença
+de açúcar enquanto estiver a tomar este medicamento.
+
+Crianças e adolescentes
+
+Este medicamento não é recomendado para crianças e adolescentes com menos de 18 anos, porque não
+foi estudado nestes doentes.
+
+Outros medicamentos e Glyxambi
+
+Informe o seu médico ou farmacêutico se estiver a utilizar, tiver utilizado recentemente, ou se vier a
+utilizar outros medicamentos. Em particular, deve informar o seu médico se estiver a utilizar os
+seguintes medicamentos:
+      outros medicamentos antidiabéticos, tais como insulina ou uma sulfonilureia. O médico poderá
+       necessitar de diminuir a dose destes outros medicamentos para evitar que os seus níveis de
+       açúcar no sangue fiquem demasiado baixos.
+      medicamentos utilizados para remover água do seu organismo (diuréticos). O médico poderá
+       pedir-lhe que pare de tomar Glyxambi.
+      medicamentos que possam afetar a degradação da empagliflozina ou da linagliptina no
+       organismo, tais como a rifampicina (antibiótico usado para tratar a tuberculose) ou certos
+       medicamentos usados para tratar convulsões (como a carbamazepina, o fenobarbital ou a
+       fenitoína). O efeito de Glyxambi pode ser reduzido.
+
+Gravidez, amamentação e fertilidade
+
+Se está grávida, se pensa estar grávida ou planeia engravidar, consulte o seu médico antes de tomar
+este medicamento.
+
+Não se sabe se Glyxambi pode fazer mal ao feto (bebé que ainda não nasceu). Como medida de
+precaução, é preferível evitar a utilização deste medicamento durante a gravidez.
+
+Não se sabe se as substâncias ativas de Glyxambi passam para o leite materno humano. Não use este
+medicamento se estiver a amamentar.
+
+Não se sabe se Glyxambi afeta a fertilidade em seres humanos.
+
+Condução de veículos e utilização de máquinas
+
+Os efeitos de Glyxambi sobre a capacidade de conduzir e utilizar máquinas são reduzidos.
+
+Tomar este medicamento em conjunto com sulfonilureias ou com insulina pode fazer com que os
+níveis de açúcar no seu sangue baixem demasiado (hipoglicemia), o que pode provocar sintomas tais
+como tremores, suores e alterações da visão e assim afetar a sua capacidade de conduzir e utilizar
+máquinas. Não conduza nem use quaisquer ferramentas ou máquinas se tiver qualquer destes sintomas
+enquanto estiver a tomar Glyxambi.
+
+<title>3. Como tomar Glyxambi</title>
+
+Tome este medicamento exatamente como indicado pelo seu médico. Fale com o seu médico ou
+farmacêutico se tiver dúvidas.
+
+Qual a quantidade a tomar
+
+A dose inicial é de 10 mg de empagliflozina com 5 mg de linagliptina uma vez por dia. Para esta
+dose, Glyxambi está disponível sob a forma de comprimidos revestidos por película de 10 mg/5 mg.
+
+O seu médico decidirá se é necessário aumentar a dose para um comprimido revestido por película de
+
+Glyxambi 25 mg/5 mg (25 mg de empagliflozina com 5 mg de linagliptina) uma vez por dia. Caso já
+esteja a tomar 25 mg de empagliflozina e 5 mg de linagliptina em comprimidos separados e mude para
+Glyxambi, pode começar diretamente com Glyxambi 25 mg/5 mg.
+
+Compromisso renal:
+Fale com o seu médico se tiver problemas nos rins. O médico poderá limitar a sua dose ou decidir
+utilizar um medicamento alternativo.
+
+Compromisso hepático:
+Fale com o seu médico se sofrer de compromisso hepático grave. Glyxambi não é recomendado e o
+médico poderá decidir utilizar um medicamento alternativo.
+
+Idosos:
+Existe muito pouca experiência em doentes com 75 anos ou mais. O tratamento com Glyxambi não
+deve ser iniciado em doentes com mais de 75 anos.
+
+Como tomar este medicamento
+   Engula o comprimido inteiro com água.
+   Pode tomar Glyxambi com ou sem alimentos.
+   Pode tomar o comprimido a qualquer hora do dia. No entanto, tente tomá-lo sempre à mesma
+    hora todos os dias. Isso irá ajudá-lo a lembrar-se de o tomar.
+
+O seu médico pode receitar Glyxambi em conjunto com outro medicamento antidiabético. Lembre-se
+de tomar todos os medicamentos conforme indicado pelo seu médico, para obter os melhores
+resultados para a sua saúde.
+
+A dieta e o exercício podem ajudar o seu organismo a utilizar melhor o açúcar do sangue. É
+importante que continue a seguir o programa de dieta e exercício recomendado pelo seu médico
+enquanto estiver a ser tratado com este medicamento.
+
+Se tomar mais Glyxambi do que deveria
+
+Se tomar este medicamento mais do que deveria, contacte imediatamente um médico ou dirija-se
+imediatamente a um hospital. Leve a embalagem do medicamento consigo.
+
+Caso se tenha esquecido de tomar Glyxambi
+
+O que fazer, caso se tiver esquecido de tomar um comprimido, depende do tempo que faltar até à sua
+próxima dose.
+     Se faltarem 12 horas ou mais até à sua próxima dose, tome Glyxambi assim que se lembrar.
+      Depois, tome a dose seguinte à hora habitual.
+     Se faltarem menos de 12 horas para tomar a sua próxima dose, não tome a dose de que se
+      esqueceu. Depois, tome a dose seguinte à hora habitual.
+     Não tome uma dose a dobrar deste medicamento para compensar uma dose que se esqueceu de
+      tomar.
+
+Se parar de tomar Glyxambi
+
+Não pare de tomar este medicamento sem consultar primeiro o seu médico. Os seus níveis de açúcar
+no sangue podem subir se parar de tomar Glyxambi.
+
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico
+ou enfermeiro.
+
+<title>4. Efeitos indesejáveis possíveis</title>
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não
+se manifestem em todas as pessoas.
+
+Contacte imediatamente um médico ou o hospital mais próximo se tiver algum dos sintomas
+seguintes:
+
+Cetoacidose diabética, raramente observada (pode afetar até 1 em 1.000 pessoas)
+Estes são os sinais de cetoacidose diabética (ver também a secção 2, ‘Advertências e precauções’):
+
+<item>      aumento dos níveis de “corpos cetónicos” na urina ou no sangue
+
+<item>      perda rápida de peso
+
+<item>      sensação de mal-estar geral ou sentir-se doente
+
+<item>      dores de estômago
+
+<item>      sede excessiva
+
+<item>      respiração rápida e profunda
+
+<item>      confusão
+
+<item>      sonolência ou cansaço invulgares
+
+<item>      hálito adocicado, sabor doce ou metálico na boca ou um cheiro diferente na urina ou no suor.
+
+Estes sintomas podem ocorrer independentemente dos níveis do açúcar no sangue. O médico pode
+decidir parar o seu tratamento com este medicamento de forma temporária ou permanente.
+
+Entre imediatamente em contacto com um médico se reparar nalgum dos seguintes efeitos
+indesejáveis:
+
+Reações alérgicas, observadas pouco frequentemente (pode afetar até 1 em 100 pessoas)
+Este medicamento pode provocar reações alérgicas, que podem ser graves, incluindo urticária e
+inchaço da face, lábios, língua e garganta, que podem causar dificuldade em respirar ou engolir
+(angioedema).
+
+Inflamação do pâncreas (pancreatite), observada pouco frequentemente
+
+Este medicamento pode provocar pancreatite, que aparece normalmente na forma de dores abdominais
+(estômago) intensas e persistentes que podem chegar às costas e são frequentemente acompanhadas de
+sensação de mal-estar geral ou doença. O médico necessitará de alterar o seu tratamento.
+
+Níveis baixos de açúcar no sangue (hipoglicemia), observados frequentemente (pode afetar até 1 em
+10 pessoas)
+Se tomar Glyxambi com outro medicamento que possa causar níveis baixos de açúcar no sangue, tal
+como uma sulfonilureia ou insulina, corre o risco de ter níveis demasiado baixos de açúcar no sangue
+(hipoglicemia). Os sinais de níveis demasiado baixos de açúcar no sangue podem incluir:
+     tremores, suores, sensação de grande ansiedade ou confusão, batimento acelerado do coração
+     fome exagerada, dor de cabeça
+
+O seu médico irá indicar-lhe como tratar os níveis baixos de açúcar no sangue e o que fazer se tiver
+algum dos sinais indicados acima. Se tiver sintomas de níveis baixos de açúcar no sangue, tome
+açúcar, coma um lanche rico em açúcares ou beba um sumo de fruta. Meça o seu açúcar no sangue, se
+possível, e descanse.
+
+Infeção do trato urinário, observada frequentemente
+
+Os sinais de infeção do trato urinário (vias urinárias) são:
+     sensação de ardor ao urinar
+     urina com aparência turva
+     dor na pélvis, ou entre o meio e o fundo das costas (quando os rins estão infetados)
+
+Urgência em urinar ou urinar mais frequentemente podem estar relacionadas com a forma como este
+medicamento funciona, mas podem também ser sinais de infeção urinária; se notar um aumento da
+intensidade desses sintomas, deve também contactar o seu médico.
+
+Perda de líquidos do corpo (desidratação), observada pouco frequentemente
+
+Os sinais de desidratação não são específicos, mas podem incluir:
+     sede fora do vulgar
+     cabeça leve ou tonturas ao levantar-se
+     desmaio ou perda de consciência
+
+Outros efeitos indesejáveis ao tomar Glyxambi:
+
+Observados frequentemente
+    infeção genital por leveduras, como candidíase
+    nariz ou garganta inflamada (nasofaringite)
+    tosse
+    urinar em maior quantidade ou necessidade de urinar com mais frequência
+    comichão
+    erupção cutânea
+    aumento da enzima amilase no sangue
+    aumento da enzima lipase do pâncreas
+    sede
+
+Observados pouco frequentemente
+    tensão ou dor ao esvaziar a bexiga
+    os resultados das análises ao sangue podem mostrar alterações nos níveis sanguíneos de
+     gordura, um aumento dos glóbulos vermelhos (aumento do hematócrito) e alterações
+     relacionadas com a função renal (diminuição da taxa de filtração e aumento dos níveis
+     sanguíneos de creatinina)
+
+Observados raramente
+    feridas na boca
+
+Frequência desconhecida (não pode ser calculada a partir dos dados disponíveis)
+    formação de bolhas na pele (penfigóide bolhoso)
+    fasciite necrotizante do períneo (gangrena de Fournier), uma infeção grave dos tecidos moles
+     dos órgãos genitais ou da área entre os órgãos genitais e o ânus
+
+Comunicação de efeitos indesejáveis
+
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+indesejáveis diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+
+<title>5. Como conservar Glyxambi</title>
+
+Manter este medicamento fora da vista e do alcance das crianças.
+
+Não utilize este medicamento após o prazo de validade impresso no blister e na cartonagem exterior,
+após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+
+O medicamento não necessita de quaisquer precauções especiais de conservação.
+
+Não utilize este medicamento se verificar que a embalagem está danificada ou apresenta sinais visíveis
+de ter sido violada.
+
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+<title>6. Conteúdo da embalagem e outras informações</title>
+
+Qual a composição de Glyxambi
+
+<item>    As substâncias ativas são empagliflozina e linagliptina. Cada comprimido revestido por película
+     contém 10 mg de empagliflozina e 5 mg de linagliptina.
+
+<item>    Os outros componentes são:
+     Núcleo do comprimido: manitol (E421), amido pré-gelificado (milho), amido de milho,
+     copovidona, crospovidona, talco e estearato de magnésio.
+     Revestimento: hipromelose, manitol (E421), talco, dióxido de titânio (E171), macrogol 6000 e
+     óxido de ferro amarelo (E172).
+
+<item>    As substâncias ativas são empagliflozina e linagliptina. Cada comprimido revestido por película
+     contém 25 mg de empagliflozina e 5 mg de linagliptina.
+
+<item>    Os outros componentes são:
+     Núcleo do comprimido: manitol (E421), amido pré-gelificado (milho), amido de milho,
+     copovidona, crospovidona, talco e estearato de magnésio.
+     Revestimento: hipromelose, manitol (E421), talco, dióxido de titânio (E171), macrogol 6000 e
+     óxido de ferro vermelho (E172).
+
+Qual o aspeto de Glyxambi e conteúdo da embalagem
+
+Glyxambi 10 mg/5 mg comprimidos revestidos por película (comprimidos) são amarelo pálido,
+triangulares arqueados, de face plana e bordos biselados. Têm a impressão “10/5” numa face e o
+logótipo da Boehringer Ingelheim na outra face. Cada lado do comprimido mede 8 mm de
+comprimento.
+
+Glyxambi 25 mg/5 mg comprimidos revestidos por película (comprimidos) são rosa pálido,
+triangulares arqueados, de face plana e bordos biselados. Têm a impressão “25/5” numa face e o
+logótipo da Boehringer Ingelheim na outra face. Cada lado do comprimido tem 8 mm.
+
+Glyxambi está disponível em blisters unidose perfurados em PVC/PVDC/alumínio.
+
+As apresentações são de 7 x 1, 10 x 1, 14 x 1, 28 x 1, 30 x 1, 60 x 1, 70 x 1, 90 x 1 e
+100 x 1 comprimidos revestidos por película.
+
+É possível que não sejam comercializadas todas as apresentações no seu país.
+
+Titular da Autorização de Introdução no Mercado
+
+Boehringer Ingelheim International GmbH
+Binger Str. 173
+55216 Ingelheim am Rhein
+Alemanha
+
+Fabricante
+
+Boehringer Ingelheim Pharma GmbH & Co. KG
+Binger Strasse 173
+55216 Ingelheim am Rhein
+Alemanha
+
+Rottendorf Pharma GmbH
+Ostenfelder Strasse 51 – 61
+59320 Ennigerloh
+Alemanha
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+
+België/Belgique/Belgien                               Lietuva
+
+SCS Boehringer Ingelheim Comm.V                       Boehringer Ingelheim RCV GmbH & Co KG
+Tél/Tel: +32 2 773 33 11                              Lietuvos filialas
+                                                      Tel: +370 5 2595942
+
+България                                              Luxembourg/Luxemburg
+
+Бьорингер Ингелхайм РЦВ ГмбХ и Ко. КГ -               SCS Boehringer Ingelheim Comm.V
+клон България                                         Belgique/Belgien
+Тел: +359 2 958 79 98                                 Tél/Tel: +32 2 773 33 11
+
+Česká republika                                       Magyarország
+
+Boehringer Ingelheim spol. s r.o.                     Boehringer Ingelheim RCV GmbH & Co KG
+Tel: +420 234 655 111                                 Magyarországi Fióktelepe
+                                                      Tel: +36 1 299 89 00
+
+Danmark                                               Malta
+
+Boehringer Ingelheim Danmark A/S                      Boehringer Ingelheim Ireland Ltd.
+
+Tlf: +45 39 15 88 88                                  Tel: +353 1 295 9620
+
+Deutschland                                           Nederland
+
+Boehringer Ingelheim Pharma GmbH & Co. KG             Boehringer Ingelheim b.v.
+
+Tel: +49 (0) 800 77 90 900                            Tel: +31 (0) 800 22 55 889
+
+Lilly Deutschland GmbH
+Tel. +49 (0) 6172 273 2222
+
+Eesti                                                 Norge
+
+Boehringer Ingelheim RCV GmbH & Co KG                 Boehringer Ingelheim Norway KS
+Eesti filiaal                                         Tlf: +47 66 76 13 00
+Tel: +372 612 8000
+
+Ελλάδα                                                Österreich
+
+Boehringer Ingelheim Ellas A.E.                       Boehringer Ingelheim RCV GmbH & Co KG
+Tηλ: +30 2 10 89 06 300                               Tel: +43 1 80 105-7870
+
+España                                                Polska
+
+Boehringer Ingelheim España, S.A.                     Boehringer Ingelheim Sp. z o.o.
+
+Tel: +34 93 404 51 00                                 Tel: +48 22 699 0 699
+
+Lilly S.A.
+
+Tel: +34 91 663 50 00
+
+France                                                Portugal
+
+Boehringer Ingelheim France S.A.S.                    Boehringer Ingelheim, Unipessoal, Lda.,
+Tél: +33 3 26 50 45 33                                Tel: +351 21 313 53 00
+
+Lilly France SAS                                      Lilly Portugal Produtos Farmacêuticos, Lda
+
+Tél: +33 1 55 49 34 34                                Tel: +351 21 412 66 00
+
+Hrvatska                                              România
+
+Boehringer Ingelheim Zagreb d.o.o.                    Boehringer Ingelheim RCV GmbH & Co KG
+Tel: +385 1 2444 600                                  Viena - Sucursala Bucureşti
+                                                      Tel: +40 21 302 28 00
+
+Ireland                                              Slovenija
+
+Boehringer Ingelheim Ireland Ltd.                    Boehringer Ingelheim RCV GmbH & Co KG
+Tel: +353 1 295 9620                                 Podružnica Ljubljana
+                                                     Tel: +386 1 586 40 00
+Eli Lilly and Company (Ireland) Limited
+
+Tel: +353 1 661 4377
+
+Ísland                                               Slovenská republika
+
+Vistor hf.                                           Boehringer Ingelheim RCV GmbH & Co KG
+Sími: +354 535 7000                                  organizačná zložka
+                                                     Tel: +421 2 5810 1211
+
+Italia                                               Suomi/Finland
+
+Boehringer Ingelheim Italia S.p.A.                   Boehringer Ingelheim Finland Ky
+Tel: +39 02 5355 1                                   Puh/Tel: +358 10 3102 800
+
+Eli Lilly Italia S.p.A.
+
+Tel: +39 05 5425 71
+
+Κύπρος                                               Sverige
+
+Boehringer Ingelheim Ellas A.E.                      Boehringer Ingelheim AB
+Tηλ: +30 2 10 89 06 300                              Tel: +46 8 721 21 00
+
+Latvija                                              United Kingdom
+
+Boehringer Ingelheim RCV GmbH & Co KG                Boehringer Ingelheim Ltd.
+
+Latvijas filiāle                                     Tel: +44 1344 424 600
+Tel: +371 67 240 011
+                                                     Eli Lilly and Company Limited
+                                                     Tel: +44 1256 315 000
+
+Este folheto foi revisto pela última vez em {MM/AAAA}.
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da internet da Agência
+
+Europeia de Medicamentos http://www.ema.europa.eu.
+

@@ -1,0 +1,436 @@
+: Informação para o doente
+
+                              Orgalutran 0,25 mg/0,5 ml solução injetável
+                                               ganirelix
+
+Leia com atenção todo este folheto antes de começar a utilizar este medicamento, pois contém
+informação importante para si.
+
+<item>    Conserve este folheto. Pode ter necessidade de o ler novamente.
+
+<item>    Caso ainda tenha dúvidas, fale com o seu médico, farmacêutico ou enfermeiro.
+
+<item>    Este medicamento foi receitado apenas para si. Não deve dá-lo a outros. O medicamento pode
+     ser-lhes prejudicial mesmo que apresentem os mesmos sinais de doença.
+
+<item>    Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados
+     neste folheto, fale com o seu médico, farmacêutico ou enfermeiro. Ver secção 4.
+
+O que contém este folheto:
+
+<title>1. O que é Orgalutran e para que é utilizado</title>
+
+<title>2. O que precisa de saber antes de utilizar Orgalutran</title>
+
+<title>3. Como utilizar Orgalutran</title>
+
+<title>4. Efeitos indesejáveis possíveis</title>
+
+<title>5. Como conservar Orgalutran</title>
+
+<title>6. Conteúdo da embalagem e outras informações</title>
+
+<title>1. O que é Orgalutran e para que é utilizado</title>
+
+Orgalutran contém a substância ativa ganirelix e pertence a um grupo de medicamentos chamados
+“hormonas de libertação anti gonadotrofina” que atuam contra as ações da hormona de libertação da
+gonadotrofina (GnRH) fisiológica. A GnRH regula a libertação das gonadotrofinas (hormona
+luteinizante (LH) e hormona folículo-estimulante (FSH)). As gonadotrofinas desempenham um
+importante papel na fertilidade e reprodução humanas. Nas mulheres, a FSH é necessária para o
+crescimento e desenvolvimento dos folículos nos ovários. Os folículos são pequenos sacos redondos
+que contêm os óvulos. A LH é necessária para a libertação dos óvulos maduros a partir dos folículos e
+ovários (isto é, a ovulação). Orgalutran inibe a ação da GnRH, resultando especialmente na supressão
+da libertação da LH.
+
+Orgalutran é utilizado para
+
+Em mulheres sujeitas a técnicas de reprodução assistida, incluindo fertilização in vitro (FIV) e outros
+métodos, ocasionalmente pode ocorrer uma ovulação demasiado cedo causando uma redução
+significativa das hipóteses de engravidar. Orgalutran é usado para prevenir o pico prematuro de LH
+que pode causar esta libertação prematura dos óvulos.
+
+Em estudos clínicos, Orgalutran foi utilizado com a hormona folículo-estimulante (FSH) recombinante
+ou a corifolitropina alfa, um estimulante folicular com uma longa duração de ação.
+
+<title>2. O que precisa de saber antes de utilizar Orgalutran</title>
+
+Não utilize Orgalutran
+
+<item>    se tem alergia ao ganirelix ou a qualquer outro componente deste medicamento (indicados na
+     secção 6);
+
+<item>    se tem hipersensibilidade à hormona de libertação da gonadotrofina (GnRH) ou a um análogo da
+     GnRH;
+
+<item>    se tem uma doença moderada ou grave no fígado ou nos rins;
+
+<item>    se estiver grávida ou a amamentar.
+
+Advertências e precauções
+
+Fale com o seu médico, farmacêutico ou enfermeiro antes de utilizar Orgalutran
+
+Reações alérgicas
+
+Se tiver uma alergia ativa, por favor informe o seu médico. O seu médico decidirá, conforme a
+gravidade da situação, se será necessária uma monitorização adicional durante o tratamento. Foram
+notificados casos de reações alérgicas, logo a partir da primeira dose.
+
+Foram notificadas reações alérgicas, tanto generalizadas como locais, incluindo erupções na pele
+(urticária), inchaço da face, lábios, língua e/ou garganta que podem causar dificuldade em respirar e/ou
+engolir (angiedema e/ou anafilaxia). (Ver também secção 4.) Se tiver uma reação alérgica, pare de
+utilizar Orgalutran e procure assistência médica imediata.
+
+Alergia ao látex
+
+A proteção da agulha contém borracha natural seca/látex que entra em contacto com a agulha e pode
+causar reações alérgicas.
+
+Síndrome de hiperestimulação ovárica (SHO)
+
+Durante ou após a estimulação hormonal dos ovários, pode ocorrer a síndrome de hiperestimulação
+ovárica. Esta síndrome está relacionada com o processo de estimulação com as gonadotrofinas. Por
+favor, leia o Folheto Informativo do medicamento com gonadotrofina que lhe foi prescrito.
+
+Nascimentos múltiplos e malformações à nascença
+
+A incidência de malformações congénitas após técnicas de reprodução assistida pode ser ligeiramente
+maior comparativamente à incidência após conceções espontâneas. Pensa-se que esta incidência
+ligeiramente mais elevada esteja relacionada com características das doentes sujeitas a tratamento de
+fertilidade (p. ex. idade da mulher, características do esperma) e à maior incidência de gestações
+múltiplas após técnicas de reprodução assistida. A incidência de malformações congénitas após
+técnicas de reprodução assistida usando Orgalutran não é diferente da observada após a utilização de
+outros análogos da GnRH no decorrer dessas técnicas.
+
+Complicações na gravidez
+
+Há um ligeiro aumento do risco de gravidez fora do útero (uma gravidez ectópica) em mulheres com
+lesões nas trompas de Falópio.
+
+Mulheres com peso inferior a 50 kg ou superior a 90 kg
+
+A eficácia e a segurança de Orgalutran não foram estabelecidas em mulheres com peso inferior a 50 kg
+ou superior a 90 kg. Consulte o seu médico para informação adicional.
+
+Crianças e adolescentes
+
+Não existe utilização relevante de Orgalutran em crianças ou adolescentes.
+
+Outros medicamentos e Orgalutran
+
+Informe o seu médico ou farmacêutico se estiver a utilizar, tiver utilizado recentemente, ou se vier a
+utilizar outros medicamentos.
+
+Gravidez, amamentação e fertilidade
+
+Orgalutran deve ser utilizado durante a estimulação ovárica controlada para técnicas de reprodução
+assistida (TRA). Não utilizar Orgalutran durante a gravidez e aleitamento.
+
+Consulte o seu médico ou farmacêutico antes de tomar este medicamento.
+
+Condução de veículos e utilização de máquinas
+
+Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+
+Orgalutran contém sódio
+
+Orgalutran contém menos de 1 mmol de sódio (23 mg) por injeção ou seja, é praticamente “isento de
+sódio”.
+
+<title>3. Como utilizar Orgalutran</title>
+
+Utilize este medicamento exatamente como indicado pelo seu médico ou farmacêutico. Fale com o seu
+médico ou farmacêutico se tiver dúvidas.
+
+Orgalutran é usado como parte do tratamento das técnicas de reprodução assistida (TRA), incluindo a
+fertilização in vitro (FIV).
+
+A estimulação ovárica com a hormona folículo-estimulante (FSH) ou corifolitropina pode ter início no
+2ºou 3º dia da menstruação. Orgalutran (0,25 mg) deverá ser injetado subcutaneamente (debaixo da
+pele), uma vez por dia, com início no 5º ou 6º dia da estimulação. Com base na sua resposta ovárica, o
+seu médico poderá decidir iniciar o tratamento noutro dia.
+
+Orgalutran e a FSH devem ser administrados aproximadamente à mesma hora. No entanto, as
+preparações não devem ser misturadas e devem ser administradas em locais de injeção diferentes.
+
+O tratamento diário com Orgalutran deve ser continuado até ao dia em que se consigam obter folículos
+suficientes de dimensão adequada. A maturação final dos óvulos nos folículos pode ser induzida pela
+administração de gonadotrofina coriónica humana (hCG). O intervalo de tempo entre duas injeções de
+Orgalutran, assim como o tempo entre a última injeção de Orgalutran e a injeção de hCG não deve
+exceder 30 horas; caso contrário, pode ocorrer uma ovulação prematura (isto é, libertação dos óvulos).
+
+Deste modo, quando a administração de Orgalutran é feita de manhã, o tratamento com Orgalutran
+deve ser continuado ao longo de todo o período de tratamento com a gonadotrofina, incluindo o dia de
+desencadeamento da ovulação. Quando a administração de Orgalutran é feita à tarde, a última injeção
+de Orgalutran deve ser dada na tarde anterior ao dia de desencadeamento da ovulação.
+
+Instruções de utilização
+
+Local de injeção
+
+Orgalutran apresenta-se em seringas pré-cheias e deve ser injetado lentamente, imediatamente sob a
+pele, de preferência na parte superior da perna. Verifique a solução antes da administração. Não a
+utilize se contiver partículas ou não se encontrar límpida. Pode observar bolha(s) de ar na seringa pré-cheia. Isto é expectável, e não é necessária a remoção da(s) bolha(s) de ar. Se a injeção for
+administrada por si própria ou pelo seu companheiro siga cuidadosamente as instruções abaixo
+descritas. Não misture Orgalutran com outros medicamentos.
+
+Preparação do local da injeção
+
+Lave cuidadosamente as mãos com água e sabão. O local da injeção deve ser limpo com um
+desinfetante (por exemplo álcool) de modo a remover as bactérias da superfície. Limpe cerca de 5 cm
+à volta do local onde será introduzida a agulha e deixe o desinfetante secar, pelo menos durante um
+minuto, antes de iniciar a administração.
+
+Inserção da agulha
+
+Retire a proteção da agulha. Faça uma prega grande de pele entre o indicador e o polegar. A agulha
+deve ser inserida na base da pele apertada fazendo um ângulo de 45 com a superfície da pele. Altere o
+local da injeção a cada administração.
+
+Verificação da posição correta da agulha
+
+Puxe o êmbolo ligeiramente para trás para verificar se a agulha está corretamente posicionada.
+
+Qualquer sangue aspirado para a seringa significa que a ponta da agulha penetrou num vaso
+sanguíneo. Se isto acontecer, não injete Orgalutran, retire a seringa, cubra o local da injeção com
+
+algodão embebido em desinfetante e comprima-o; a hemorragia deverá parar dentro de um ou dois
+minutos. Não utilize esta seringa e elimine-a adequadamente. Recomece a administração com uma
+nova seringa.
+
+Injeção da solução
+
+Logo que a agulha se encontre corretamente posicionada, empurre o êmbolo lentamente e com
+firmeza; assim, a solução será injetada corretamente sem que ocorra lesão da pele.
+
+Remoção da seringa
+
+Puxe a seringa rapidamente e faça pressão no local com uma compressa contendo desinfetante.
+
+Use a seringa pré-cheia apenas uma vez.
+
+Se utilizar mais Orgalutran do que deveria
+
+Contactar o seu médico.
+
+Caso se tenha esquecido de utilizar Orgalutran
+
+Se se esqueceu de administrar uma dose, deve fazê-lo logo que possível.
+
+Não injete uma dose a dobrar para compensar uma dose que se esqueceu de injetar.
+
+No entanto, se o esquecimento for superior a 6 horas (o intervalo entre as duas injeções seria, portanto,
+superior a 30 horas), administre a dose logo que possível e contacte o seu médico para aconselhamento
+adicional.
+
+Se parar de utilizar Orgalutran
+
+Não pare de utilizar Orgalutran a não ser por indicação do seu médico, uma vez que pode afetar o
+resultado do seu tratamento.
+
+Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, farmacêutico
+ou enfermeiro.
+
+<title>4. Efeitos indesejáveis possíveis</title>
+
+Como todos os medicamentos, este medicamento pode causar efeitos indesejáveis, embora estes não
+se manifestem em todas as pessoas.
+
+A possibilidade de ter um efeito indesejável é descrita pelas seguintes categorias:
+
+Muito frequentes: podem afetar mais de 1 em 10 mulheres
+ Reações na pele no local da injeção (principalmente vermelhidão, com ou sem inchaço). A reação
+  local desaparece normalmente nas 4 horas após a administração.
+
+Pouco frequentes: podem afetar até 1 em 100 mulheres
+ Dor de cabeça
+ Náuseas
+ Mal-estar.
+
+Muito raros: podem afetar até 1 em 10.000 mulheres
+ Foram observadas reações alérgicas logo a partir da primeira dose.
+   Erupção na pele
+   Inchaço da face
+   Dificuldade em respirar (dispneia)
+   Inchaço da face, lábios, língua, e/ou garganta que pode causar dificuldade em respirar e/ou
+       engolir (angiedema e/ou anafilaxia)
+   Erupções na pele (urticária)
+ Foi notificado o agravamento de uma erupção na pele pré-existente (eczema) numa mulher após a
+  primeira dose de Orgalutran.
+
+Para além destes, foram notificados efeitos indesejáveis que se sabe estarem relacionados com o
+tratamento da hiperestimulação ovárica controlada (por ex. dor abdominal, síndrome de
+hiperestimulação ovárica (SHO), gravidez ectópica (quando o embrião se desenvolve fora do útero) e
+aborto (consulte o Folheto Informativo do medicamento contendo FSH que lhe foi prescrito)).
+
+Comunicação de efeitos indesejáveis
+
+Se tiver quaisquer efeitos indesejáveis, incluindo possíveis efeitos indesejáveis não indicados neste
+folheto, fale com o seu médico, farmacêutico ou enfermeiro. Também poderá comunicar efeitos
+indesejáveis diretamente através do sistema nacional de notificação mencionado no Apêndice V. Ao
+comunicar efeitos indesejáveis, estará a ajudar a fornecer mais informações sobre a segurança deste
+medicamento.
+
+<title>5. Como conservar Orgalutran</title>
+
+Manter este medicamento fora da vista e do alcance das crianças.
+
+Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no rótulo
+após “EXP”. O prazo de validade corresponde ao último dia do mês indicado.
+
+Não congelar.
+
+Conservar na embalagem de origem para proteger da luz.
+
+Inspecione a seringa antes de usar. Utilize apenas seringas com soluções límpidas, isentas de partículas
+e de embalagens não danificadas.
+
+Não deite fora quaisquer medicamentos na canalização ou no lixo doméstico. Pergunte ao seu
+farmacêutico como deitar fora os medicamentos que já não utiliza. Estas medidas ajudarão a proteger
+o ambiente.
+
+<title>6. Conteúdo da embalagem e outras informações</title>
+
+Qual a composição de Orgalutran
+
+<item>    A substância ativa é o ganirelix (0,25 mg em 0,5 ml de solução).
+
+<item>    Os outros componentes são o ácido acético, manitol, água para preparações injetáveis. O pH
+     (uma medida de acidez) pode ter sido ajustado com hidróxido de sódio e ácido acético.
+
+Qual o aspeto de Orgalutran e conteúdo da embalagem
+
+Orgalutran é uma solução injetável aquosa límpida e incolor. A solução está pronta a usar e é para
+administração subcutânea. A proteção da agulha contém borracha natural seca/látex que entra em
+contacto com a agulha.
+
+Orgalutran está disponível em embalagens de 1 ou 5 seringas pré-cheias.
+
+É possível que não sejam comercializadas todas as apresentações.
+
+Titular da Autorização de Introdução no Mercado e Fabricante
+
+Titular da Autorização de Introdução no Mercado
+
+Merck Sharp & Dohme B.V.
+
+Waarderweg 39
+2031 BN Haarlem
+Países Baixos
+
+Fabricante
+
+N.V. Organon,
+Kloosterstraat 6,
+Postbus 20,
+5340 BH Oss,
+Países Baixos.
+
+Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular
+da Autorização de Introdução no Mercado:
+
+België/Belgique/Belgien                               Lietuva
+
+MSD Belgium BVBA/SPRL                                 UAB Merck Sharp & Dohme
+Tel/Tél: +32(0)27766211                               Tel: + 370 5 2780247
+dpoc_belux@merck.com                                  msd_lietuva@merck.com
+
+България                                              Luxembourg/Luxemburg
+
+Мерк Шарп и Доум България ЕООД                        MSD Belgium BVBA/SPRL
+Teл.: + 359 2 819 37 37                               Tel/Tél: +32(0)27766211
+info-msdbg@merck.com                                  dpoc_belux@merck.com
+
+Česká republika                                       Magyarország
+
+Merck Sharp & Dohme s.r.o.                            MSD Pharma Hungary Kft.
+
+Tel.: +420 233 010 111                                Tel.: + 36 1 888 5300
+dpoc_czechslovak@merck.com                            hungary_msd@merck.com
+
+Danmark                                               Malta
+
+Organon Denmark ApS                                   Merck Sharp & Dohme Cyprus Limited
+Tlf: + 45 4484 6800                                   Tel: 8007 4433 (+356 99917558)
+info.denmark@organon.com                              malta_info@merck.com
+
+Deutschland                                           Nederland
+
+MSD Sharp & Dohme GmbH                                Merck Sharp & Dohme B.V.
+
+Tel: 0800 673 673 673 (+49 (0) 89 4561 2612)          Tel: 0800 99 99 000 (+ 31 23 5153153)
+e-mail@msd.de                                         medicalinfo.nl@merck.com
+
+Eesti                                                 Norge
+
+Merck Sharp & Dohme OÜ                                MSD (Norge) AS
+Tel: + 372 6144 200                                   Tlf: + 47 32 20 73 00
+msdeesti@merck.com                                    msdnorge@msd.no
+
+Ελλάδα                                                Österreich
+
+MSD Α.Φ.Β.Ε.Ε.                                        Merck Sharp & Dohme Ges.m.b.H.
+
+Τηλ: + 30 210 98 97 300                               Tel: +43 (0) 1 26 044
+dpoc_greece@merck.com                                 msd-medizin@merck.com
+
+España                                                Polska
+
+Organon Salud, S.L.                                   MSD Polska Sp. z o.o.
+
+Tel: +34 91 591 12 79                                 Tel.: +48 22 549 51 00
+                                                      msdpolska@merck.com
+
+France                                                Portugal
+
+Organon France                                        Merck Sharp & Dohme, Lda
+Tél: + 33 (0) 1 57 77 32 00                           Tel: + 351 214 465700
+                                                      inform_pt@merck.com
+
+Hrvatska                                            România
+
+Merck Sharp & Dohme d.o.o.                          Merck Sharp & Dohme Romania S.R.L.
+
+Tel: + 385 1 6611 333                               Tel: + 40 21 529 29 00
+croatia_info@merck.com                              msdromania@merck.com
+
+Ireland                                             Slovenija
+
+Merck Sharp & Dohme Ireland (Human Health)          Merck Sharp & Dohme, inovativna zdravila d.o.o.
+
+Limited                                             Tel: + 386 1 5204201
+Tel: +353 (0)1 2998700                              msd.slovenia@merck.com
+medinfo_ireland@merck.com
+
+Ísland                                              Slovenská republika
+
+Vistor hf.                                          Merck Sharp & Dohme, s. r. o.
+
+Sími: + 354 535 7000                                Tel: + 421 2 58282010
+                                                    dpoc_czechslovak@merck.com
+
+Italia                                              Suomi/Finland
+
+MSD Italia S.r.l.                                   MSD Finland Oy
+Tel: +39 06 361911                                  Puh/Tel: + 358 (0)9 804650
+medicalinformation.it@merck.com                     info@msd.fi
+
+Κύπρος                                              Sverige
+
+Merck Sharp & Dohme Cyprus Limited                  Merck Sharp & Dohme (Sweden) AB
+Τηλ: 800 00 673                                     Tel: + 46 77570 04 88
+    (+357 22866700)                                 medicinskinfo@merck.com
+cyprus_info@merck.com
+
+Latvija                                             United Kingdom
+
+SIA Merck Sharp & Dohme Latvija                     Merck Sharp & Dohme Limited
+Tel: + 371 67 364224                                Tel: + 44 (0) 1992 467272
+msd_lv@merck.com                                    medicalinformationuk@msd.com
+
+Este folheto foi revisto pela última vez em{mês de AAAA}.
+
+Está disponível informação pormenorizada sobre este medicamento no sítio da Internet da Agência
+
+Europeia de Medicamentos: http://www.ema.europa.eu.
+
