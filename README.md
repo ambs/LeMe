@@ -1,2 +1,4 @@
-# MeLeCo-PT
-Medical Leaflet Corpus - PT
+# LeMe-PT
+
+LEaflet of MEdicine Corpus
+
