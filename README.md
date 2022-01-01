@@ -2,7 +2,7 @@
 
 LEaflet of MEdicine Corpus
 
-If you use this corpus, please cite the following publication:
+If you use this corpus, please cite the following publication: https://ambs.zbr.pt/publications/slate2021.leme.pdf
 
 > Alberto Simões & Pablo Gamallo. 2021. _LeMe–PT: a medical package leaflet corpus for Portuguese_. In Ricardo Queirós, Mário Pinto, Alberto Simões, Filipe Portela, & Maria João Pereira, editors, 10th Symposium on Languages, Applications and Technologies (SLATE), volume 94 of OASIcs, pp. 9:1--9:10, July. 
 
